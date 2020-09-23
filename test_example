@@ -1,0 +1,1 @@
+A->B: senc(<<k, N_a>, h(N_b)>, K_AB)
