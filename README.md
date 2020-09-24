@@ -5,7 +5,7 @@ used in the project of the
 [Security Protocols](http://master.irisa.fr/courses/SEP.html) class of my M2.
 
 ## How to use
-`git clone https:://github.com/redmie/`
+`git clone https://github.com/redmie/sep_score_proto`
 
 `cargo run < your_protocol`
 
